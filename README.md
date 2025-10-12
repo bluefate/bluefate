@@ -54,16 +54,6 @@
 ---
 <h3 align="center">🧰 Languages & Tools</h3>
 
-<style>
-.lg a * {
-  text-decoration: none !important;
-  border: 0 !important;
-}
-.lg a:hover {
-  text-decoration: none !important;
-}
-</style>
-<div class="lg">
 <!-- Languages -->
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -134,6 +124,6 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="50"/>
   </a>
 </p>
-</div>
+
 
 
