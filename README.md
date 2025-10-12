@@ -17,7 +17,12 @@
   <b>Leadership & Mentorship</b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluefate&label=Profile%20views&color=0e75b6&style=flat" alt="bluefate" /></p>
+<p>
+![Profile Views](https://komarev.com/ghpvc/?username=bluefate&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/bluefate?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/bluefate?label=Stars&style=flat)
+</p>
+
 ---
 
 <h3 align="center">🎓 Education</h3>
