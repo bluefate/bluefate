@@ -17,6 +17,7 @@
   <b>Leadership & Mentorship</b>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bluefate&label=Profile%20views&color=0e75b6&style=flat" alt="bluefate" /></p>
 ---
 
 <h3 align="center">🎓 Education</h3>
