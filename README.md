@@ -52,8 +52,6 @@
 </p>
 
 ---
-<h3 align="center">🧰 Languages & Tools</h3>
-
 <!-- Languages -->
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
