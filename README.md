@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 John M. Hernandez</h1>
+<h1 align="center">👋 John Hernandez</h1>
 <h3 align="center">Future-Ready Software Leader | AI & Cloud Systems Architect</h3>
 
 <p align="center">
@@ -17,10 +17,48 @@
   <b>Leadership & Mentorship</b>
 </p>
 
-<p>
-![Profile Views](https://komarev.com/ghpvc/?username=bluefate&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/bluefate?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/bluefate?label=Stars&style=flat)
+<p align="center">
+  <a href="https://linkedin.com/in/johnmhernandez" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <img src="https://komarev.com/ghpvc/?username=bluefate&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://img.shields.io/github/followers/bluefate?label=Followers&style=flat" alt="GitHub Followers"/>
+
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat&logo=github" alt="Contributions"/>
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=flat&logo=github" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-40-blue?style=flat&logo=github" alt="Public Repos"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Tech%20Mentor-%F0%9F%92%AA-orange?style=flat" alt="Tech Mentor"/>
+  <img src="https://img.shields.io/badge/Team%20Player-%F0%9F%8E%AF-green?style=flat" alt="Team Player"/>
+  <img src="https://img.shields.io/badge/Builder%20Mindset-%F0%9F%9B%A0%EF%B8%8F-blue?style=flat" alt="Builder Mindset"/>
+  <img src="https://img.shields.io/badge/Lifelong%20Learner-%F0%9F%93%9A-blue?style=flat" alt="Lifelong Learner"/>
+  <img src="https://img.shields.io/badge/APIs-Design%20%26%20Integration-yellow?style=flat" alt="APIs"/>
+  <img src="https://img.shields.io/badge/Florida%20Atlantic%20University-003366?style=flat&logo=graduation-cap&logoColor=white" alt="FAU"/>
+  <img src="https://img.shields.io/badge/M.S.%20Artificial%20Intelligence-8A2BE2?style=flat" alt="MS AI"/>
+  <img src="https://img.shields.io/badge/Mentor-Leadership-orange?style=flat" alt="Mentor Leadership"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat&logo=tensorflow&logoColor=orange" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-20232A?style=flat&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-007ACC?style=flat&logo=python&logoColor=white" alt="NLP"/>
+  <img src="https://img.shields.io/badge/Databricks-EF3E2D?style=flat&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Hadoop-FF9900?style=flat&logo=apachehadoop&logoColor=black" alt="Hadoop"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white" alt="Rancher"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-orange?style=flat" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Azure%20Pipelines-blue?style=flat&logo=azurepipelines" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
 </p>
 
 ---
@@ -41,76 +79,10 @@
 
 ---
 
-<h3 align="center">🔗 Connect</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/FAU-Student-red?style=flat&logo=graduation-cap" alt="FAU Badge"/>
-</p>
-
----
-
 <h3 align="center">⚠️ Repositories</h3>
 <p align="center">
    <i>Some repositories remain private due to enterprise code ownership.</i><br>
    <i>I'll be publishing public examples that highlight general architecture patterns, AI/ML concepts, and selected academic projects as they’re completed.</i>
-</p>
-
----
-<!-- Languages -->
-<p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="30"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Databricks-logo.svg" alt="Databricks" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.rancher.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" height="30"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" height="30"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="30"/>
-  </a>
 </p>
 
 
