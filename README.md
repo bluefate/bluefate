@@ -19,7 +19,7 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
 ## GitHub activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=57606a&title_color=0891b2&line=22d3ee&point=d946ef&area=true&area_color=cffafe&hide_border=true&days=45&custom_title=Recent%20Activity" alt="GitHub contribution graph for the last 45 days" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=57606a&title_color=0e7490&line=0891b2&point=d946ef&area=true&area_color=cffafe&hide_border=true&days=45&custom_title=Recent%20Activity" alt="GitHub contribution graph for the last 45 days" />
 </p>
 
 ## Building now
@@ -37,7 +37,7 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
 
 ## Tools I reach for
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
@@ -54,7 +54,7 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
 
 ## Find me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/johnmhernandez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://bluefatelabs.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:john.hernandez@bluefatelabs.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
