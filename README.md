@@ -27,7 +27,7 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
 - Built and led real-time data platforms with about 99.9% uptime
 - Modernized enterprise workloads with Azure, AKS, Databricks, Kafka, and event-driven services
 - Applied machine learning to sentiment, loyalty, retention, engagement, and forecasting
-- M.S. in Artificial Intelligence, Florida Atlantic University, GPA 3.934
+- <a href="https://www.fau.edu/"><img src="logofau.png" width="48" alt="Florida Atlantic University" /></a> M.S. in Artificial Intelligence, Florida Atlantic University, GPA 3.934
 
 ## Tools I reach for
 
