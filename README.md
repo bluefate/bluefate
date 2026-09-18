@@ -8,6 +8,17 @@
   AI, data, and cloud systems built for real-world work.
 </p>
 
+## GitHub activity
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true&days=45" alt="GitHub contribution graph for the last 45 days" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bluefate&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true&hide=contribs" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bluefate&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+</p>
+
 ## Building now
 
 **CrownMind AI** explores automated dental crown design from 3D intraoral scan data.
@@ -50,15 +61,4 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
   <a href="https://www.linkedin.com/in/johnmhernandez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://bluefatelabs.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:john.hernandez@bluefatelabs.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-## GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bluefate&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true&hide=contribs" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bluefate&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true&days=45" alt="GitHub contribution graph for the last 45 days" />
 </p>
