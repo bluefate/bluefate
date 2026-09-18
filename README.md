@@ -1,42 +1,60 @@
-<h1 align="center">John Hernandez</h1>
-<p align="center"><i>I build things that shouldn't exist yet.</i></p>
-
----
-
-I'm a software engineer who stopped caring about job titles and started caring about impact.
-
-<img src="logofau.png" width="40" align="left" style="margin-right:8px"/> M.S. in AI from FAU. B.S. in CS from FAU. But mostly self-taught in the things that actually matter.
-
-I've spent years inside enterprise systems — the kind held together by duct tape, legacy decisions, and good intentions. I've untangled them, scaled them, and rebuilt them from scratch when necessary. I don't fetishize complexity. I respect it enough to cut through it.
-
-Right now I'm pushing toward the intersection of **deep learning and real-world geometry** — think AI systems that understand the physical world, not just text and tokens.
-
----
-
-### What I actually do
-
-- **Design systems that scale** — cloud-native on Azure (AKS, Functions, Event Hubs), microservices, distributed everything
-- **Lead teams without losing the IC instinct** — I still write the code. I still catch the architectural mistakes. I don't manage from a distance.
-- **Build AI that does something** — not demos, not prototypes that die in a notebook. Production ML systems integrated into real workflows.
-- **Question the defaults** — if everyone's doing it, that's a reason to look harder, not follow along
-
----
-
-### Stack I trust
-
-`Python` `C#` `.NET` `PyTorch` `Azure` `Docker` `Kubernetes` `Databricks` `SQL` `FastAPI` `Next.js`
-
----
-
-### Current obsession
-
-**CrownMind AI** — automated dental crown design using deep learning on 3D point clouds. PointNet++ encoder feeding a conditional generator trained on real intraoral scan data. If it works the way I think it will, it replaces a manual process that hasn't changed in decades.
-
-Most of my repos are private due to enterprise ownership. I'll push public work as it clears. Watch this space.
-
----
+<p align="center">
+  <a href="https://github.com/bluefate">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=538&text=John%20Hernandez" alt="John Hernandez" />
+  </a>
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/johnmhernandez">LinkedIn</a> &nbsp;·&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=bluefate&label=views&color=0e75b6&style=flat" alt="views"/>
+  AI, data, and cloud systems built for real-world work.
+</p>
+
+## Building now
+
+**CrownMind AI** explores automated dental crown design from 3D intraoral scan data.
+
+**ClinicOps AI** helps independent clinics see what needs attention before it affects a patient or delays revenue. It brings signals from patient communications, appointments, insurance, authorizations, claims, denials, and collections into one prioritized operating view, while keeping staff in control of important decisions.
+
+## What I do
+
+I build AI, data, and cloud systems that have to work outside a demo.
+
+Over the past 20+ years, I have worked across enterprise software, digital commerce, real-time data, and cloud modernization. That has included platforms processing roughly 20 million events a day, customer systems serving millions of people, and the unglamorous work of making complex systems more reliable.
+
+These days, I am most interested in applied AI, agentic workflows, intelligent automation, and software that can understand more than text alone.
+
+## Selected background
+
+- Built and led real-time data platforms with about 99.9% uptime
+- Modernized enterprise workloads with Azure, AKS, Databricks, Kafka, and event-driven services
+- Applied machine learning to sentiment, loyalty, retention, engagement, and forecasting
+- M.S. in Artificial Intelligence, Florida Atlantic University, GPA 3.934
+
+## Tools I reach for
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</p>
+
+## Find me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/johnmhernandez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://bluefatelabs.com"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:john.hernandez@bluefatelabs.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+## GitHub activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bluefate&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bluefate&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
 </p>
