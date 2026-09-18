@@ -19,7 +19,7 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
 ## GitHub activity
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=57606a&title_color=0969da&line=2f81f7&point=1f6feb&area=true&area_color=ddf4ff&hide_border=true&days=45&custom_title=Recent%20Activity" alt="GitHub contribution graph for the last 45 days" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=57606a&title_color=0969da&line=2f81f7&point=d946ef&area=true&area_color=ddf4ff&hide_border=true&days=45&custom_title=Recent%20Activity" alt="GitHub contribution graph for the last 45 days" />
 </p>
 
 ## Building now
