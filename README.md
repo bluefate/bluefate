@@ -22,11 +22,6 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=bluefate&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true&days=45&custom_title=Recent%20Activity" alt="GitHub contribution graph for the last 45 days" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=bluefate&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true&hide=contribs&hide_rank=true&custom_title=GitHub%20Stats" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=bluefate&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
-</p>
-
 ## Building now
 
 **CrownMind AI** explores automated dental crown design from 3D intraoral scan data.
