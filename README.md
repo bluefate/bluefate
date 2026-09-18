@@ -8,6 +8,14 @@
   AI, data, and cloud systems built for real-world work.
 </p>
 
+## What I do
+
+I build AI, data, and cloud systems that have to work outside a demo.
+
+Over the past 20+ years, I have worked across enterprise software, digital commerce, real-time data, and cloud modernization. That has included platforms processing roughly 20 million events a day, customer systems serving millions of people, and the unglamorous work of making complex systems more reliable.
+
+These days, I am most interested in applied AI, agentic workflows, intelligent automation, and software that can understand more than text alone.
+
 ## GitHub activity
 
 <p align="center">
@@ -24,14 +32,6 @@
 **CrownMind AI** explores automated dental crown design from 3D intraoral scan data.
 
 **ClinicOps AI** helps independent clinics see what needs attention before it affects a patient or delays revenue. It brings signals from patient communications, appointments, insurance, authorizations, claims, denials, and collections into one prioritized operating view, while keeping staff in control of important decisions.
-
-## What I do
-
-I build AI, data, and cloud systems that have to work outside a demo.
-
-Over the past 20+ years, I have worked across enterprise software, digital commerce, real-time data, and cloud modernization. That has included platforms processing roughly 20 million events a day, customer systems serving millions of people, and the unglamorous work of making complex systems more reliable.
-
-These days, I am most interested in applied AI, agentic workflows, intelligent automation, and software that can understand more than text alone.
 
 ## Selected background
 
