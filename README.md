@@ -5,16 +5,19 @@
 </p>
 
 <p align="center">
-  AI, data, and cloud systems built for real-world work.
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=640&lines=M.S.%20in%20Artificial%20Intelligence.;AI,%20data,%20and%20cloud%20systems%20built%20for%20real-world%20work." alt="AI, data, and cloud systems built for real-world work." />
 </p>
 
 ## What I do
 
 I build AI, data, and cloud systems that have to work outside a demo.
 
-Over the past 20+ years, I have worked across enterprise software, digital commerce, real-time data, and cloud modernization. That has included platforms processing roughly 20 million events a day, customer systems serving millions of people, and the unglamorous work of making complex systems more reliable.
+Over the past 20+ years, I have worked across enterprise software, digital commerce, real-time data, and cloud
+modernization. That has included platforms processing roughly 20 million events a day, customer systems serving millions
+of people, and the unglamorous work of making complex systems more reliable.
 
-These days, I am most interested in applied AI, agentic workflows, intelligent automation, and software that can understand more than text alone.
+These days, I am most interested in applied AI, agentic workflows, intelligent automation, and software that can
+understand more than text alone.
 
 ## GitHub activity
 
@@ -26,14 +29,17 @@ These days, I am most interested in applied AI, agentic workflows, intelligent a
 
 **CrownMind AI** explores automated dental crown design from 3D intraoral scan data.
 
-**ClinicOps AI** helps independent clinics see what needs attention before it affects a patient or delays revenue. It brings signals from patient communications, appointments, insurance, authorizations, claims, denials, and collections into one prioritized operating view, while keeping staff in control of important decisions.
+**ClinicOps AI** helps independent clinics see what needs attention before it affects a patient or delays revenue. It
+brings signals from patient communications, appointments, insurance, authorizations, claims, denials, and collections
+into one prioritized operating view, while keeping staff in control of important decisions.
 
 ## Selected background
 
 - Built and led real-time data platforms with about 99.9% uptime
 - Modernized enterprise workloads with Azure, AKS, Databricks, Kafka, and event-driven services
 - Applied machine learning to sentiment, loyalty, retention, engagement, and forecasting
-- <a href="https://www.fau.edu/"><img src="logofau.png" width="48" alt="Florida Atlantic University" /></a> M.S. in Artificial Intelligence, Florida Atlantic University, GPA 3.934
+- <a href="https://www.fau.edu/"><img src="logofau.png" width="48" alt="Florida Atlantic University" /></a> M.S. in
+  Artificial Intelligence, Florida Atlantic University, GPA 3.934
 
 ## Tools I reach for
 
