@@ -10,9 +10,9 @@
 
 ## What I do
 
-I build AI, data, and cloud systems. Over the past 20+ years, I have worked across enterprise software, digital commerce, real-time data, and cloud
-modernization. That has included platforms processing roughly 20 million events a day, customer systems serving millions
-of people, and the unglamorous work of making complex systems more reliable.
+I build AI, data, and cloud systems. Over the past 20+ years, I have worked across enterprise software, digital
+commerce, real-time data, and cloud modernization. That has included platforms processing roughly 20 million events a
+day, customer systems serving millions of people, and the unglamorous work of making complex systems more reliable.
 
 These days, I am most interested in applied AI, agentic workflows, intelligent automation, and software that can
 understand more than text alone.
@@ -35,12 +35,14 @@ into one prioritized operating view, while keeping staff in control of important
 
 - Built and led real-time data platforms with about 99.9% uptime
 - Modernized enterprise workloads with Azure, AKS, Databricks, Kafka, and event-driven services
-- Applied machine learning to sentiment, loyalty, retention, engagement, and forecasting
-- M.S. in
-  Artificial Intelligence, Florida Atlantic University, GPA 3.934
+- Applied machine learning to sentiment, loyalty, retention, engagement, and forecasting<br><br>
 <p align="center">
   <a href="https://www.fau.edu/"><img src="logofau.png" width="56" alt="Florida Atlantic University" /></a>
 </p>
+
+- <b>M.S. in Artificial Intelligence</b>, Florida Atlantic University
+- B.S. in Computer Science, Florida Atlantic University
+
 
 ## Tools I reach for
 
